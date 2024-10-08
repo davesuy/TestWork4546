@@ -33,9 +33,10 @@ This project is built as a child theme for the Storefront theme. Below are the k
 ### 6. Custom Template for Countries and Cities Table
 
 - A custom template was created to display a table listing countries, cities, and temperatures.
+  - File Created: `template-cities.php`
   - Data is retrieved using a database query with the global variable `$wpdb`.
   - A search field for cities was added above the table using WP Ajax, along with custom action hooks before and after the table.
-  - Code Location: `template-cities.php` (Lines 81-152)
+  - Code Location: `functions.php` (Lines 81-152)
 
 ## App Demonstration
 
