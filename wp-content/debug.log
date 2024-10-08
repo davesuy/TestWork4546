@@ -9159,3 +9159,3027 @@ Stack trace:
 
 )
 
+[08-Oct-2024 13:02:34 UTC] Search term received: qwe
+[08-Oct-2024 13:02:34 UTC] No results found for the search term: qwe
+[08-Oct-2024 13:02:34 UTC] Search term received: qwe
+[08-Oct-2024 13:02:34 UTC] No results found for the search term: qwe
+[08-Oct-2024 13:02:35 UTC] Search term received: qwe
+[08-Oct-2024 13:02:35 UTC] No results found for the search term: qwe
+[08-Oct-2024 13:02:35 UTC] Search term received: qwe
+[08-Oct-2024 13:02:35 UTC] No results found for the search term: qwe
+[08-Oct-2024 13:02:35 UTC] Search term received: qwe
+[08-Oct-2024 13:02:35 UTC] No results found for the search term: qwe
+[08-Oct-2024 13:02:35 UTC] Search term received: 
+[08-Oct-2024 13:02:35 UTC] Results found: Array
+(
+    [0] => stdClass Object
+        (
+            [ID] => 10
+            [post_title] => New York
+            [country_name] => United States
+        )
+
+    [1] => stdClass Object
+        (
+            [ID] => 11
+            [post_title] => London
+            [country_name] => United Kingdom
+        )
+
+    [2] => stdClass Object
+        (
+            [ID] => 12
+            [post_title] => Tokyo
+            [country_name] => Japan
+        )
+
+    [3] => stdClass Object
+        (
+            [ID] => 13
+            [post_title] => Sydney
+            [country_name] => Australia
+        )
+
+    [4] => stdClass Object
+        (
+            [ID] => 14
+            [post_title] => Cape Town
+            [country_name] => South Africa
+        )
+
+)
+
+[08-Oct-2024 13:02:35 UTC] Search term received: ne
+[08-Oct-2024 13:02:35 UTC] Results found: Array
+(
+    [0] => stdClass Object
+        (
+            [ID] => 10
+            [post_title] => New York
+            [country_name] => United States
+        )
+
+    [1] => stdClass Object
+        (
+            [ID] => 13
+            [post_title] => Sydney
+            [country_name] => Australia
+        )
+
+)
+
+[08-Oct-2024 13:02:35 UTC] Search term received: new
+[08-Oct-2024 13:02:35 UTC] Results found: Array
+(
+    [0] => stdClass Object
+        (
+            [ID] => 10
+            [post_title] => New York
+            [country_name] => United States
+        )
+
+)
+
+[08-Oct-2024 13:02:36 UTC] Search term received: new
+[08-Oct-2024 13:02:36 UTC] Results found: Array
+(
+    [0] => stdClass Object
+        (
+            [ID] => 10
+            [post_title] => New York
+            [country_name] => United States
+        )
+
+)
+
+[08-Oct-2024 13:02:37 UTC] Search term received: new
+[08-Oct-2024 13:02:37 UTC] Results found: Array
+(
+    [0] => stdClass Object
+        (
+            [ID] => 10
+            [post_title] => New York
+            [country_name] => United States
+        )
+
+)
+
+[08-Oct-2024 13:02:37 UTC] Search term received: new
+[08-Oct-2024 13:02:37 UTC] Results found: Array
+(
+    [0] => stdClass Object
+        (
+            [ID] => 10
+            [post_title] => New York
+            [country_name] => United States
+        )
+
+)
+
+[08-Oct-2024 13:02:37 UTC] Search term received: 
+[08-Oct-2024 13:02:37 UTC] Results found: Array
+(
+    [0] => stdClass Object
+        (
+            [ID] => 10
+            [post_title] => New York
+            [country_name] => United States
+        )
+
+    [1] => stdClass Object
+        (
+            [ID] => 11
+            [post_title] => London
+            [country_name] => United Kingdom
+        )
+
+    [2] => stdClass Object
+        (
+            [ID] => 12
+            [post_title] => Tokyo
+            [country_name] => Japan
+        )
+
+    [3] => stdClass Object
+        (
+            [ID] => 13
+            [post_title] => Sydney
+            [country_name] => Australia
+        )
+
+    [4] => stdClass Object
+        (
+            [ID] => 14
+            [post_title] => Cape Town
+            [country_name] => South Africa
+        )
+
+)
+
+[08-Oct-2024 13:02:37 UTC] Search term received: l
+[08-Oct-2024 13:02:37 UTC] Results found: Array
+(
+    [0] => stdClass Object
+        (
+            [ID] => 11
+            [post_title] => London
+            [country_name] => United Kingdom
+        )
+
+)
+
+[08-Oct-2024 13:02:37 UTC] Search term received: lo
+[08-Oct-2024 13:02:37 UTC] Results found: Array
+(
+    [0] => stdClass Object
+        (
+            [ID] => 11
+            [post_title] => London
+            [country_name] => United Kingdom
+        )
+
+)
+
+[08-Oct-2024 13:02:37 UTC] Search term received: lon
+[08-Oct-2024 13:02:37 UTC] Results found: Array
+(
+    [0] => stdClass Object
+        (
+            [ID] => 11
+            [post_title] => London
+            [country_name] => United Kingdom
+        )
+
+)
+
+[08-Oct-2024 13:02:38 UTC] Search term received: lon
+[08-Oct-2024 13:02:38 UTC] Results found: Array
+(
+    [0] => stdClass Object
+        (
+            [ID] => 11
+            [post_title] => London
+            [country_name] => United Kingdom
+        )
+
+)
+
+[08-Oct-2024 13:02:38 UTC] Search term received: lon
+[08-Oct-2024 13:02:38 UTC] Results found: Array
+(
+    [0] => stdClass Object
+        (
+            [ID] => 11
+            [post_title] => London
+            [country_name] => United Kingdom
+        )
+
+)
+
+[08-Oct-2024 13:02:38 UTC] Search term received: 
+[08-Oct-2024 13:02:38 UTC] Results found: Array
+(
+    [0] => stdClass Object
+        (
+            [ID] => 10
+            [post_title] => New York
+            [country_name] => United States
+        )
+
+    [1] => stdClass Object
+        (
+            [ID] => 11
+            [post_title] => London
+            [country_name] => United Kingdom
+        )
+
+    [2] => stdClass Object
+        (
+            [ID] => 12
+            [post_title] => Tokyo
+            [country_name] => Japan
+        )
+
+    [3] => stdClass Object
+        (
+            [ID] => 13
+            [post_title] => Sydney
+            [country_name] => Australia
+        )
+
+    [4] => stdClass Object
+        (
+            [ID] => 14
+            [post_title] => Cape Town
+            [country_name] => South Africa
+        )
+
+)
+
+[08-Oct-2024 13:02:39 UTC] Search term received: 
+[08-Oct-2024 13:02:39 UTC] Results found: Array
+(
+    [0] => stdClass Object
+        (
+            [ID] => 10
+            [post_title] => New York
+            [country_name] => United States
+        )
+
+    [1] => stdClass Object
+        (
+            [ID] => 11
+            [post_title] => London
+            [country_name] => United Kingdom
+        )
+
+    [2] => stdClass Object
+        (
+            [ID] => 12
+            [post_title] => Tokyo
+            [country_name] => Japan
+        )
+
+    [3] => stdClass Object
+        (
+            [ID] => 13
+            [post_title] => Sydney
+            [country_name] => Australia
+        )
+
+    [4] => stdClass Object
+        (
+            [ID] => 14
+            [post_title] => Cape Town
+            [country_name] => South Africa
+        )
+
+)
+
+[08-Oct-2024 13:02:40 UTC] Search term received: sy
+[08-Oct-2024 13:02:40 UTC] Results found: Array
+(
+    [0] => stdClass Object
+        (
+            [ID] => 13
+            [post_title] => Sydney
+            [country_name] => Australia
+        )
+
+)
+
+[08-Oct-2024 13:02:40 UTC] Search term received: sy
+[08-Oct-2024 13:02:40 UTC] Results found: Array
+(
+    [0] => stdClass Object
+        (
+            [ID] => 13
+            [post_title] => Sydney
+            [country_name] => Australia
+        )
+
+)
+
+[08-Oct-2024 13:02:40 UTC] Search term received: syd
+[08-Oct-2024 13:02:40 UTC] Results found: Array
+(
+    [0] => stdClass Object
+        (
+            [ID] => 13
+            [post_title] => Sydney
+            [country_name] => Australia
+        )
+
+)
+
+[08-Oct-2024 13:02:41 UTC] Search term received: syd
+[08-Oct-2024 13:02:41 UTC] Results found: Array
+(
+    [0] => stdClass Object
+        (
+            [ID] => 13
+            [post_title] => Sydney
+            [country_name] => Australia
+        )
+
+)
+
+[08-Oct-2024 13:02:41 UTC] Search term received: syd
+[08-Oct-2024 13:02:41 UTC] Results found: Array
+(
+    [0] => stdClass Object
+        (
+            [ID] => 13
+            [post_title] => Sydney
+            [country_name] => Australia
+        )
+
+)
+
+[08-Oct-2024 13:02:41 UTC] Search term received: 
+[08-Oct-2024 13:02:41 UTC] Results found: Array
+(
+    [0] => stdClass Object
+        (
+            [ID] => 10
+            [post_title] => New York
+            [country_name] => United States
+        )
+
+    [1] => stdClass Object
+        (
+            [ID] => 11
+            [post_title] => London
+            [country_name] => United Kingdom
+        )
+
+    [2] => stdClass Object
+        (
+            [ID] => 12
+            [post_title] => Tokyo
+            [country_name] => Japan
+        )
+
+    [3] => stdClass Object
+        (
+            [ID] => 13
+            [post_title] => Sydney
+            [country_name] => Australia
+        )
+
+    [4] => stdClass Object
+        (
+            [ID] => 14
+            [post_title] => Cape Town
+            [country_name] => South Africa
+        )
+
+)
+
+[08-Oct-2024 13:02:42 UTC] Search term received: 
+[08-Oct-2024 13:02:42 UTC] Results found: Array
+(
+    [0] => stdClass Object
+        (
+            [ID] => 10
+            [post_title] => New York
+            [country_name] => United States
+        )
+
+    [1] => stdClass Object
+        (
+            [ID] => 11
+            [post_title] => London
+            [country_name] => United Kingdom
+        )
+
+    [2] => stdClass Object
+        (
+            [ID] => 12
+            [post_title] => Tokyo
+            [country_name] => Japan
+        )
+
+    [3] => stdClass Object
+        (
+            [ID] => 13
+            [post_title] => Sydney
+            [country_name] => Australia
+        )
+
+    [4] => stdClass Object
+        (
+            [ID] => 14
+            [post_title] => Cape Town
+            [country_name] => South Africa
+        )
+
+)
+
+[08-Oct-2024 13:02:43 UTC] Search term received: t
+[08-Oct-2024 13:02:43 UTC] Results found: Array
+(
+    [0] => stdClass Object
+        (
+            [ID] => 12
+            [post_title] => Tokyo
+            [country_name] => Japan
+        )
+
+    [1] => stdClass Object
+        (
+            [ID] => 14
+            [post_title] => Cape Town
+            [country_name] => South Africa
+        )
+
+)
+
+[08-Oct-2024 13:02:43 UTC] Search term received: to
+[08-Oct-2024 13:02:43 UTC] Results found: Array
+(
+    [0] => stdClass Object
+        (
+            [ID] => 12
+            [post_title] => Tokyo
+            [country_name] => Japan
+        )
+
+    [1] => stdClass Object
+        (
+            [ID] => 14
+            [post_title] => Cape Town
+            [country_name] => South Africa
+        )
+
+)
+
+[08-Oct-2024 13:02:44 UTC] Search term received: to
+[08-Oct-2024 13:02:44 UTC] Results found: Array
+(
+    [0] => stdClass Object
+        (
+            [ID] => 12
+            [post_title] => Tokyo
+            [country_name] => Japan
+        )
+
+    [1] => stdClass Object
+        (
+            [ID] => 14
+            [post_title] => Cape Town
+            [country_name] => South Africa
+        )
+
+)
+
+[08-Oct-2024 13:02:44 UTC] Search term received: to
+[08-Oct-2024 13:02:44 UTC] Results found: Array
+(
+    [0] => stdClass Object
+        (
+            [ID] => 12
+            [post_title] => Tokyo
+            [country_name] => Japan
+        )
+
+    [1] => stdClass Object
+        (
+            [ID] => 14
+            [post_title] => Cape Town
+            [country_name] => South Africa
+        )
+
+)
+
+[08-Oct-2024 13:02:44 UTC] Search term received: 
+[08-Oct-2024 13:02:44 UTC] Results found: Array
+(
+    [0] => stdClass Object
+        (
+            [ID] => 10
+            [post_title] => New York
+            [country_name] => United States
+        )
+
+    [1] => stdClass Object
+        (
+            [ID] => 11
+            [post_title] => London
+            [country_name] => United Kingdom
+        )
+
+    [2] => stdClass Object
+        (
+            [ID] => 12
+            [post_title] => Tokyo
+            [country_name] => Japan
+        )
+
+    [3] => stdClass Object
+        (
+            [ID] => 13
+            [post_title] => Sydney
+            [country_name] => Australia
+        )
+
+    [4] => stdClass Object
+        (
+            [ID] => 14
+            [post_title] => Cape Town
+            [country_name] => South Africa
+        )
+
+)
+
+[08-Oct-2024 13:02:44 UTC] Search term received: 
+[08-Oct-2024 13:02:44 UTC] Results found: Array
+(
+    [0] => stdClass Object
+        (
+            [ID] => 10
+            [post_title] => New York
+            [country_name] => United States
+        )
+
+    [1] => stdClass Object
+        (
+            [ID] => 11
+            [post_title] => London
+            [country_name] => United Kingdom
+        )
+
+    [2] => stdClass Object
+        (
+            [ID] => 12
+            [post_title] => Tokyo
+            [country_name] => Japan
+        )
+
+    [3] => stdClass Object
+        (
+            [ID] => 13
+            [post_title] => Sydney
+            [country_name] => Australia
+        )
+
+    [4] => stdClass Object
+        (
+            [ID] => 14
+            [post_title] => Cape Town
+            [country_name] => South Africa
+        )
+
+)
+
+[08-Oct-2024 13:06:20 UTC] Search term received: 
+[08-Oct-2024 13:06:20 UTC] Results found: Array
+(
+    [0] => stdClass Object
+        (
+            [ID] => 10
+            [post_title] => New York
+            [country_name] => United States
+        )
+
+    [1] => stdClass Object
+        (
+            [ID] => 11
+            [post_title] => London
+            [country_name] => United Kingdom
+        )
+
+    [2] => stdClass Object
+        (
+            [ID] => 12
+            [post_title] => Tokyo
+            [country_name] => Japan
+        )
+
+    [3] => stdClass Object
+        (
+            [ID] => 13
+            [post_title] => Sydney
+            [country_name] => Australia
+        )
+
+    [4] => stdClass Object
+        (
+            [ID] => 14
+            [post_title] => Cape Town
+            [country_name] => South Africa
+        )
+
+)
+
+[08-Oct-2024 13:06:22 UTC] Search term received: 
+[08-Oct-2024 13:06:22 UTC] Results found: Array
+(
+    [0] => stdClass Object
+        (
+            [ID] => 10
+            [post_title] => New York
+            [country_name] => United States
+        )
+
+    [1] => stdClass Object
+        (
+            [ID] => 11
+            [post_title] => London
+            [country_name] => United Kingdom
+        )
+
+    [2] => stdClass Object
+        (
+            [ID] => 12
+            [post_title] => Tokyo
+            [country_name] => Japan
+        )
+
+    [3] => stdClass Object
+        (
+            [ID] => 13
+            [post_title] => Sydney
+            [country_name] => Australia
+        )
+
+    [4] => stdClass Object
+        (
+            [ID] => 14
+            [post_title] => Cape Town
+            [country_name] => South Africa
+        )
+
+)
+
+[08-Oct-2024 13:50:34 UTC] Search term received: l
+[08-Oct-2024 13:50:34 UTC] Results found: Array
+(
+    [0] => stdClass Object
+        (
+            [ID] => 11
+            [post_title] => London
+            [country_name] => United Kingdom
+        )
+
+)
+
+[08-Oct-2024 13:50:34 UTC] Search term received: lo
+[08-Oct-2024 13:50:34 UTC] Results found: Array
+(
+    [0] => stdClass Object
+        (
+            [ID] => 11
+            [post_title] => London
+            [country_name] => United Kingdom
+        )
+
+)
+
+[08-Oct-2024 13:50:34 UTC] Search term received: lon
+[08-Oct-2024 13:50:34 UTC] Results found: Array
+(
+    [0] => stdClass Object
+        (
+            [ID] => 11
+            [post_title] => London
+            [country_name] => United Kingdom
+        )
+
+)
+
+[08-Oct-2024 13:50:35 UTC] Search term received: lon
+[08-Oct-2024 13:50:35 UTC] Results found: Array
+(
+    [0] => stdClass Object
+        (
+            [ID] => 11
+            [post_title] => London
+            [country_name] => United Kingdom
+        )
+
+)
+
+[08-Oct-2024 13:50:35 UTC] Search term received: 
+[08-Oct-2024 13:50:35 UTC] Results found: Array
+(
+    [0] => stdClass Object
+        (
+            [ID] => 10
+            [post_title] => New York
+            [country_name] => United States
+        )
+
+    [1] => stdClass Object
+        (
+            [ID] => 11
+            [post_title] => London
+            [country_name] => United Kingdom
+        )
+
+    [2] => stdClass Object
+        (
+            [ID] => 12
+            [post_title] => Tokyo
+            [country_name] => Japan
+        )
+
+    [3] => stdClass Object
+        (
+            [ID] => 13
+            [post_title] => Sydney
+            [country_name] => Australia
+        )
+
+    [4] => stdClass Object
+        (
+            [ID] => 14
+            [post_title] => Cape Town
+            [country_name] => South Africa
+        )
+
+)
+
+[08-Oct-2024 13:50:35 UTC] Search term received: 
+[08-Oct-2024 13:50:35 UTC] Results found: Array
+(
+    [0] => stdClass Object
+        (
+            [ID] => 10
+            [post_title] => New York
+            [country_name] => United States
+        )
+
+    [1] => stdClass Object
+        (
+            [ID] => 11
+            [post_title] => London
+            [country_name] => United Kingdom
+        )
+
+    [2] => stdClass Object
+        (
+            [ID] => 12
+            [post_title] => Tokyo
+            [country_name] => Japan
+        )
+
+    [3] => stdClass Object
+        (
+            [ID] => 13
+            [post_title] => Sydney
+            [country_name] => Australia
+        )
+
+    [4] => stdClass Object
+        (
+            [ID] => 14
+            [post_title] => Cape Town
+            [country_name] => South Africa
+        )
+
+)
+
+[08-Oct-2024 13:50:35 UTC] Search term received: 
+[08-Oct-2024 13:50:35 UTC] Results found: Array
+(
+    [0] => stdClass Object
+        (
+            [ID] => 10
+            [post_title] => New York
+            [country_name] => United States
+        )
+
+    [1] => stdClass Object
+        (
+            [ID] => 11
+            [post_title] => London
+            [country_name] => United Kingdom
+        )
+
+    [2] => stdClass Object
+        (
+            [ID] => 12
+            [post_title] => Tokyo
+            [country_name] => Japan
+        )
+
+    [3] => stdClass Object
+        (
+            [ID] => 13
+            [post_title] => Sydney
+            [country_name] => Australia
+        )
+
+    [4] => stdClass Object
+        (
+            [ID] => 14
+            [post_title] => Cape Town
+            [country_name] => South Africa
+        )
+
+)
+
+[08-Oct-2024 13:50:36 UTC] Search term received: t
+[08-Oct-2024 13:50:36 UTC] Results found: Array
+(
+    [0] => stdClass Object
+        (
+            [ID] => 12
+            [post_title] => Tokyo
+            [country_name] => Japan
+        )
+
+    [1] => stdClass Object
+        (
+            [ID] => 14
+            [post_title] => Cape Town
+            [country_name] => South Africa
+        )
+
+)
+
+[08-Oct-2024 13:50:36 UTC] Search term received: to
+[08-Oct-2024 13:50:36 UTC] Results found: Array
+(
+    [0] => stdClass Object
+        (
+            [ID] => 12
+            [post_title] => Tokyo
+            [country_name] => Japan
+        )
+
+    [1] => stdClass Object
+        (
+            [ID] => 14
+            [post_title] => Cape Town
+            [country_name] => South Africa
+        )
+
+)
+
+[08-Oct-2024 13:50:37 UTC] Search term received: to
+[08-Oct-2024 13:50:37 UTC] Results found: Array
+(
+    [0] => stdClass Object
+        (
+            [ID] => 12
+            [post_title] => Tokyo
+            [country_name] => Japan
+        )
+
+    [1] => stdClass Object
+        (
+            [ID] => 14
+            [post_title] => Cape Town
+            [country_name] => South Africa
+        )
+
+)
+
+[08-Oct-2024 13:50:37 UTC] Search term received: to
+[08-Oct-2024 13:50:37 UTC] Results found: Array
+(
+    [0] => stdClass Object
+        (
+            [ID] => 12
+            [post_title] => Tokyo
+            [country_name] => Japan
+        )
+
+    [1] => stdClass Object
+        (
+            [ID] => 14
+            [post_title] => Cape Town
+            [country_name] => South Africa
+        )
+
+)
+
+[08-Oct-2024 13:50:37 UTC] Search term received: 
+[08-Oct-2024 13:50:37 UTC] Results found: Array
+(
+    [0] => stdClass Object
+        (
+            [ID] => 10
+            [post_title] => New York
+            [country_name] => United States
+        )
+
+    [1] => stdClass Object
+        (
+            [ID] => 11
+            [post_title] => London
+            [country_name] => United Kingdom
+        )
+
+    [2] => stdClass Object
+        (
+            [ID] => 12
+            [post_title] => Tokyo
+            [country_name] => Japan
+        )
+
+    [3] => stdClass Object
+        (
+            [ID] => 13
+            [post_title] => Sydney
+            [country_name] => Australia
+        )
+
+    [4] => stdClass Object
+        (
+            [ID] => 14
+            [post_title] => Cape Town
+            [country_name] => South Africa
+        )
+
+)
+
+[08-Oct-2024 13:50:37 UTC] Search term received: 
+[08-Oct-2024 13:50:37 UTC] Results found: Array
+(
+    [0] => stdClass Object
+        (
+            [ID] => 10
+            [post_title] => New York
+            [country_name] => United States
+        )
+
+    [1] => stdClass Object
+        (
+            [ID] => 11
+            [post_title] => London
+            [country_name] => United Kingdom
+        )
+
+    [2] => stdClass Object
+        (
+            [ID] => 12
+            [post_title] => Tokyo
+            [country_name] => Japan
+        )
+
+    [3] => stdClass Object
+        (
+            [ID] => 13
+            [post_title] => Sydney
+            [country_name] => Australia
+        )
+
+    [4] => stdClass Object
+        (
+            [ID] => 14
+            [post_title] => Cape Town
+            [country_name] => South Africa
+        )
+
+)
+
+[08-Oct-2024 13:50:44 UTC] Search term received: to
+[08-Oct-2024 13:50:44 UTC] Results found: Array
+(
+    [0] => stdClass Object
+        (
+            [ID] => 12
+            [post_title] => Tokyo
+            [country_name] => Japan
+        )
+
+    [1] => stdClass Object
+        (
+            [ID] => 14
+            [post_title] => Cape Town
+            [country_name] => South Africa
+        )
+
+)
+
+[08-Oct-2024 13:50:44 UTC] Search term received: to
+[08-Oct-2024 13:50:44 UTC] Results found: Array
+(
+    [0] => stdClass Object
+        (
+            [ID] => 12
+            [post_title] => Tokyo
+            [country_name] => Japan
+        )
+
+    [1] => stdClass Object
+        (
+            [ID] => 14
+            [post_title] => Cape Town
+            [country_name] => South Africa
+        )
+
+)
+
+[08-Oct-2024 13:50:44 UTC] Search term received: tok
+[08-Oct-2024 13:50:44 UTC] Results found: Array
+(
+    [0] => stdClass Object
+        (
+            [ID] => 12
+            [post_title] => Tokyo
+            [country_name] => Japan
+        )
+
+)
+
+[08-Oct-2024 13:50:44 UTC] Search term received: tok
+[08-Oct-2024 13:50:44 UTC] Results found: Array
+(
+    [0] => stdClass Object
+        (
+            [ID] => 12
+            [post_title] => Tokyo
+            [country_name] => Japan
+        )
+
+)
+
+[08-Oct-2024 13:50:44 UTC] Search term received: tok
+[08-Oct-2024 13:50:44 UTC] Results found: Array
+(
+    [0] => stdClass Object
+        (
+            [ID] => 12
+            [post_title] => Tokyo
+            [country_name] => Japan
+        )
+
+)
+
+[08-Oct-2024 13:50:45 UTC] Search term received: 
+[08-Oct-2024 13:50:45 UTC] Results found: Array
+(
+    [0] => stdClass Object
+        (
+            [ID] => 10
+            [post_title] => New York
+            [country_name] => United States
+        )
+
+    [1] => stdClass Object
+        (
+            [ID] => 11
+            [post_title] => London
+            [country_name] => United Kingdom
+        )
+
+    [2] => stdClass Object
+        (
+            [ID] => 12
+            [post_title] => Tokyo
+            [country_name] => Japan
+        )
+
+    [3] => stdClass Object
+        (
+            [ID] => 13
+            [post_title] => Sydney
+            [country_name] => Australia
+        )
+
+    [4] => stdClass Object
+        (
+            [ID] => 14
+            [post_title] => Cape Town
+            [country_name] => South Africa
+        )
+
+)
+
+[08-Oct-2024 13:50:45 UTC] Search term received: 
+[08-Oct-2024 13:50:45 UTC] Results found: Array
+(
+    [0] => stdClass Object
+        (
+            [ID] => 10
+            [post_title] => New York
+            [country_name] => United States
+        )
+
+    [1] => stdClass Object
+        (
+            [ID] => 11
+            [post_title] => London
+            [country_name] => United Kingdom
+        )
+
+    [2] => stdClass Object
+        (
+            [ID] => 12
+            [post_title] => Tokyo
+            [country_name] => Japan
+        )
+
+    [3] => stdClass Object
+        (
+            [ID] => 13
+            [post_title] => Sydney
+            [country_name] => Australia
+        )
+
+    [4] => stdClass Object
+        (
+            [ID] => 14
+            [post_title] => Cape Town
+            [country_name] => South Africa
+        )
+
+)
+
+[08-Oct-2024 13:50:45 UTC] Search term received: l
+[08-Oct-2024 13:50:45 UTC] Results found: Array
+(
+    [0] => stdClass Object
+        (
+            [ID] => 11
+            [post_title] => London
+            [country_name] => United Kingdom
+        )
+
+)
+
+[08-Oct-2024 13:50:45 UTC] Search term received: lo
+[08-Oct-2024 13:50:45 UTC] Results found: Array
+(
+    [0] => stdClass Object
+        (
+            [ID] => 11
+            [post_title] => London
+            [country_name] => United Kingdom
+        )
+
+)
+
+[08-Oct-2024 13:50:46 UTC] Search term received: lon
+[08-Oct-2024 13:50:46 UTC] Results found: Array
+(
+    [0] => stdClass Object
+        (
+            [ID] => 11
+            [post_title] => London
+            [country_name] => United Kingdom
+        )
+
+)
+
+[08-Oct-2024 13:50:46 UTC] Search term received: lon
+[08-Oct-2024 13:50:46 UTC] Results found: Array
+(
+    [0] => stdClass Object
+        (
+            [ID] => 11
+            [post_title] => London
+            [country_name] => United Kingdom
+        )
+
+)
+
+[08-Oct-2024 13:50:46 UTC] Search term received: lon
+[08-Oct-2024 13:50:46 UTC] Results found: Array
+(
+    [0] => stdClass Object
+        (
+            [ID] => 11
+            [post_title] => London
+            [country_name] => United Kingdom
+        )
+
+)
+
+[08-Oct-2024 13:50:46 UTC] Search term received: 
+[08-Oct-2024 13:50:46 UTC] Results found: Array
+(
+    [0] => stdClass Object
+        (
+            [ID] => 10
+            [post_title] => New York
+            [country_name] => United States
+        )
+
+    [1] => stdClass Object
+        (
+            [ID] => 11
+            [post_title] => London
+            [country_name] => United Kingdom
+        )
+
+    [2] => stdClass Object
+        (
+            [ID] => 12
+            [post_title] => Tokyo
+            [country_name] => Japan
+        )
+
+    [3] => stdClass Object
+        (
+            [ID] => 13
+            [post_title] => Sydney
+            [country_name] => Australia
+        )
+
+    [4] => stdClass Object
+        (
+            [ID] => 14
+            [post_title] => Cape Town
+            [country_name] => South Africa
+        )
+
+)
+
+[08-Oct-2024 13:50:47 UTC] Search term received: 
+[08-Oct-2024 13:50:47 UTC] Results found: Array
+(
+    [0] => stdClass Object
+        (
+            [ID] => 10
+            [post_title] => New York
+            [country_name] => United States
+        )
+
+    [1] => stdClass Object
+        (
+            [ID] => 11
+            [post_title] => London
+            [country_name] => United Kingdom
+        )
+
+    [2] => stdClass Object
+        (
+            [ID] => 12
+            [post_title] => Tokyo
+            [country_name] => Japan
+        )
+
+    [3] => stdClass Object
+        (
+            [ID] => 13
+            [post_title] => Sydney
+            [country_name] => Australia
+        )
+
+    [4] => stdClass Object
+        (
+            [ID] => 14
+            [post_title] => Cape Town
+            [country_name] => South Africa
+        )
+
+)
+
+[08-Oct-2024 13:50:48 UTC] Search term received: 
+[08-Oct-2024 13:50:48 UTC] Results found: Array
+(
+    [0] => stdClass Object
+        (
+            [ID] => 10
+            [post_title] => New York
+            [country_name] => United States
+        )
+
+    [1] => stdClass Object
+        (
+            [ID] => 11
+            [post_title] => London
+            [country_name] => United Kingdom
+        )
+
+    [2] => stdClass Object
+        (
+            [ID] => 12
+            [post_title] => Tokyo
+            [country_name] => Japan
+        )
+
+    [3] => stdClass Object
+        (
+            [ID] => 13
+            [post_title] => Sydney
+            [country_name] => Australia
+        )
+
+    [4] => stdClass Object
+        (
+            [ID] => 14
+            [post_title] => Cape Town
+            [country_name] => South Africa
+        )
+
+)
+
+[08-Oct-2024 13:50:48 UTC] Search term received: 
+[08-Oct-2024 13:50:48 UTC] Results found: Array
+(
+    [0] => stdClass Object
+        (
+            [ID] => 10
+            [post_title] => New York
+            [country_name] => United States
+        )
+
+    [1] => stdClass Object
+        (
+            [ID] => 11
+            [post_title] => London
+            [country_name] => United Kingdom
+        )
+
+    [2] => stdClass Object
+        (
+            [ID] => 12
+            [post_title] => Tokyo
+            [country_name] => Japan
+        )
+
+    [3] => stdClass Object
+        (
+            [ID] => 13
+            [post_title] => Sydney
+            [country_name] => Australia
+        )
+
+    [4] => stdClass Object
+        (
+            [ID] => 14
+            [post_title] => Cape Town
+            [country_name] => South Africa
+        )
+
+)
+
+[08-Oct-2024 13:50:48 UTC] Search term received: 
+[08-Oct-2024 13:50:48 UTC] Results found: Array
+(
+    [0] => stdClass Object
+        (
+            [ID] => 10
+            [post_title] => New York
+            [country_name] => United States
+        )
+
+    [1] => stdClass Object
+        (
+            [ID] => 11
+            [post_title] => London
+            [country_name] => United Kingdom
+        )
+
+    [2] => stdClass Object
+        (
+            [ID] => 12
+            [post_title] => Tokyo
+            [country_name] => Japan
+        )
+
+    [3] => stdClass Object
+        (
+            [ID] => 13
+            [post_title] => Sydney
+            [country_name] => Australia
+        )
+
+    [4] => stdClass Object
+        (
+            [ID] => 14
+            [post_title] => Cape Town
+            [country_name] => South Africa
+        )
+
+)
+
+[08-Oct-2024 13:50:49 UTC] Search term received: 
+[08-Oct-2024 13:50:49 UTC] Results found: Array
+(
+    [0] => stdClass Object
+        (
+            [ID] => 10
+            [post_title] => New York
+            [country_name] => United States
+        )
+
+    [1] => stdClass Object
+        (
+            [ID] => 11
+            [post_title] => London
+            [country_name] => United Kingdom
+        )
+
+    [2] => stdClass Object
+        (
+            [ID] => 12
+            [post_title] => Tokyo
+            [country_name] => Japan
+        )
+
+    [3] => stdClass Object
+        (
+            [ID] => 13
+            [post_title] => Sydney
+            [country_name] => Australia
+        )
+
+    [4] => stdClass Object
+        (
+            [ID] => 14
+            [post_title] => Cape Town
+            [country_name] => South Africa
+        )
+
+)
+
+[08-Oct-2024 13:50:49 UTC] Search term received: 
+[08-Oct-2024 13:50:49 UTC] Results found: Array
+(
+    [0] => stdClass Object
+        (
+            [ID] => 10
+            [post_title] => New York
+            [country_name] => United States
+        )
+
+    [1] => stdClass Object
+        (
+            [ID] => 11
+            [post_title] => London
+            [country_name] => United Kingdom
+        )
+
+    [2] => stdClass Object
+        (
+            [ID] => 12
+            [post_title] => Tokyo
+            [country_name] => Japan
+        )
+
+    [3] => stdClass Object
+        (
+            [ID] => 13
+            [post_title] => Sydney
+            [country_name] => Australia
+        )
+
+    [4] => stdClass Object
+        (
+            [ID] => 14
+            [post_title] => Cape Town
+            [country_name] => South Africa
+        )
+
+)
+
+[08-Oct-2024 13:50:49 UTC] Search term received: 
+[08-Oct-2024 13:50:49 UTC] Results found: Array
+(
+    [0] => stdClass Object
+        (
+            [ID] => 10
+            [post_title] => New York
+            [country_name] => United States
+        )
+
+    [1] => stdClass Object
+        (
+            [ID] => 11
+            [post_title] => London
+            [country_name] => United Kingdom
+        )
+
+    [2] => stdClass Object
+        (
+            [ID] => 12
+            [post_title] => Tokyo
+            [country_name] => Japan
+        )
+
+    [3] => stdClass Object
+        (
+            [ID] => 13
+            [post_title] => Sydney
+            [country_name] => Australia
+        )
+
+    [4] => stdClass Object
+        (
+            [ID] => 14
+            [post_title] => Cape Town
+            [country_name] => South Africa
+        )
+
+)
+
+[08-Oct-2024 13:50:49 UTC] Search term received: 
+[08-Oct-2024 13:50:49 UTC] Results found: Array
+(
+    [0] => stdClass Object
+        (
+            [ID] => 10
+            [post_title] => New York
+            [country_name] => United States
+        )
+
+    [1] => stdClass Object
+        (
+            [ID] => 11
+            [post_title] => London
+            [country_name] => United Kingdom
+        )
+
+    [2] => stdClass Object
+        (
+            [ID] => 12
+            [post_title] => Tokyo
+            [country_name] => Japan
+        )
+
+    [3] => stdClass Object
+        (
+            [ID] => 13
+            [post_title] => Sydney
+            [country_name] => Australia
+        )
+
+    [4] => stdClass Object
+        (
+            [ID] => 14
+            [post_title] => Cape Town
+            [country_name] => South Africa
+        )
+
+)
+
+[08-Oct-2024 13:50:54 UTC] Search term received: 
+[08-Oct-2024 13:50:54 UTC] Results found: Array
+(
+    [0] => stdClass Object
+        (
+            [ID] => 10
+            [post_title] => New York
+            [country_name] => United States
+        )
+
+    [1] => stdClass Object
+        (
+            [ID] => 11
+            [post_title] => London
+            [country_name] => United Kingdom
+        )
+
+    [2] => stdClass Object
+        (
+            [ID] => 12
+            [post_title] => Tokyo
+            [country_name] => Japan
+        )
+
+    [3] => stdClass Object
+        (
+            [ID] => 13
+            [post_title] => Sydney
+            [country_name] => Australia
+        )
+
+    [4] => stdClass Object
+        (
+            [ID] => 14
+            [post_title] => Cape Town
+            [country_name] => South Africa
+        )
+
+)
+
+[08-Oct-2024 13:50:54 UTC] Search term received: e
+[08-Oct-2024 13:50:54 UTC] Results found: Array
+(
+    [0] => stdClass Object
+        (
+            [ID] => 10
+            [post_title] => New York
+            [country_name] => United States
+        )
+
+    [1] => stdClass Object
+        (
+            [ID] => 13
+            [post_title] => Sydney
+            [country_name] => Australia
+        )
+
+    [2] => stdClass Object
+        (
+            [ID] => 14
+            [post_title] => Cape Town
+            [country_name] => South Africa
+        )
+
+)
+
+[08-Oct-2024 13:50:54 UTC] Search term received: e
+[08-Oct-2024 13:50:54 UTC] Results found: Array
+(
+    [0] => stdClass Object
+        (
+            [ID] => 10
+            [post_title] => New York
+            [country_name] => United States
+        )
+
+    [1] => stdClass Object
+        (
+            [ID] => 13
+            [post_title] => Sydney
+            [country_name] => Australia
+        )
+
+    [2] => stdClass Object
+        (
+            [ID] => 14
+            [post_title] => Cape Town
+            [country_name] => South Africa
+        )
+
+)
+
+[08-Oct-2024 13:50:55 UTC] Search term received: 
+[08-Oct-2024 13:50:55 UTC] Results found: Array
+(
+    [0] => stdClass Object
+        (
+            [ID] => 10
+            [post_title] => New York
+            [country_name] => United States
+        )
+
+    [1] => stdClass Object
+        (
+            [ID] => 11
+            [post_title] => London
+            [country_name] => United Kingdom
+        )
+
+    [2] => stdClass Object
+        (
+            [ID] => 12
+            [post_title] => Tokyo
+            [country_name] => Japan
+        )
+
+    [3] => stdClass Object
+        (
+            [ID] => 13
+            [post_title] => Sydney
+            [country_name] => Australia
+        )
+
+    [4] => stdClass Object
+        (
+            [ID] => 14
+            [post_title] => Cape Town
+            [country_name] => South Africa
+        )
+
+)
+
+[08-Oct-2024 13:50:55 UTC] Search term received: 
+[08-Oct-2024 13:50:55 UTC] Results found: Array
+(
+    [0] => stdClass Object
+        (
+            [ID] => 10
+            [post_title] => New York
+            [country_name] => United States
+        )
+
+    [1] => stdClass Object
+        (
+            [ID] => 11
+            [post_title] => London
+            [country_name] => United Kingdom
+        )
+
+    [2] => stdClass Object
+        (
+            [ID] => 12
+            [post_title] => Tokyo
+            [country_name] => Japan
+        )
+
+    [3] => stdClass Object
+        (
+            [ID] => 13
+            [post_title] => Sydney
+            [country_name] => Australia
+        )
+
+    [4] => stdClass Object
+        (
+            [ID] => 14
+            [post_title] => Cape Town
+            [country_name] => South Africa
+        )
+
+)
+
+[08-Oct-2024 13:50:55 UTC] Search term received: 
+[08-Oct-2024 13:50:55 UTC] Results found: Array
+(
+    [0] => stdClass Object
+        (
+            [ID] => 10
+            [post_title] => New York
+            [country_name] => United States
+        )
+
+    [1] => stdClass Object
+        (
+            [ID] => 11
+            [post_title] => London
+            [country_name] => United Kingdom
+        )
+
+    [2] => stdClass Object
+        (
+            [ID] => 12
+            [post_title] => Tokyo
+            [country_name] => Japan
+        )
+
+    [3] => stdClass Object
+        (
+            [ID] => 13
+            [post_title] => Sydney
+            [country_name] => Australia
+        )
+
+    [4] => stdClass Object
+        (
+            [ID] => 14
+            [post_title] => Cape Town
+            [country_name] => South Africa
+        )
+
+)
+
+[08-Oct-2024 13:50:55 UTC] Search term received: e
+[08-Oct-2024 13:50:55 UTC] Results found: Array
+(
+    [0] => stdClass Object
+        (
+            [ID] => 10
+            [post_title] => New York
+            [country_name] => United States
+        )
+
+    [1] => stdClass Object
+        (
+            [ID] => 13
+            [post_title] => Sydney
+            [country_name] => Australia
+        )
+
+    [2] => stdClass Object
+        (
+            [ID] => 14
+            [post_title] => Cape Town
+            [country_name] => South Africa
+        )
+
+)
+
+[08-Oct-2024 13:50:56 UTC] Search term received: 
+[08-Oct-2024 13:50:56 UTC] Results found: Array
+(
+    [0] => stdClass Object
+        (
+            [ID] => 10
+            [post_title] => New York
+            [country_name] => United States
+        )
+
+    [1] => stdClass Object
+        (
+            [ID] => 11
+            [post_title] => London
+            [country_name] => United Kingdom
+        )
+
+    [2] => stdClass Object
+        (
+            [ID] => 12
+            [post_title] => Tokyo
+            [country_name] => Japan
+        )
+
+    [3] => stdClass Object
+        (
+            [ID] => 13
+            [post_title] => Sydney
+            [country_name] => Australia
+        )
+
+    [4] => stdClass Object
+        (
+            [ID] => 14
+            [post_title] => Cape Town
+            [country_name] => South Africa
+        )
+
+)
+
+[08-Oct-2024 13:50:57 UTC] Search term received: 
+[08-Oct-2024 13:50:57 UTC] Results found: Array
+(
+    [0] => stdClass Object
+        (
+            [ID] => 10
+            [post_title] => New York
+            [country_name] => United States
+        )
+
+    [1] => stdClass Object
+        (
+            [ID] => 11
+            [post_title] => London
+            [country_name] => United Kingdom
+        )
+
+    [2] => stdClass Object
+        (
+            [ID] => 12
+            [post_title] => Tokyo
+            [country_name] => Japan
+        )
+
+    [3] => stdClass Object
+        (
+            [ID] => 13
+            [post_title] => Sydney
+            [country_name] => Australia
+        )
+
+    [4] => stdClass Object
+        (
+            [ID] => 14
+            [post_title] => Cape Town
+            [country_name] => South Africa
+        )
+
+)
+
+[08-Oct-2024 13:50:57 UTC] Search term received: e
+[08-Oct-2024 13:50:57 UTC] Results found: Array
+(
+    [0] => stdClass Object
+        (
+            [ID] => 10
+            [post_title] => New York
+            [country_name] => United States
+        )
+
+    [1] => stdClass Object
+        (
+            [ID] => 13
+            [post_title] => Sydney
+            [country_name] => Australia
+        )
+
+    [2] => stdClass Object
+        (
+            [ID] => 14
+            [post_title] => Cape Town
+            [country_name] => South Africa
+        )
+
+)
+
+[08-Oct-2024 13:50:57 UTC] Search term received: 
+[08-Oct-2024 13:50:57 UTC] Results found: Array
+(
+    [0] => stdClass Object
+        (
+            [ID] => 10
+            [post_title] => New York
+            [country_name] => United States
+        )
+
+    [1] => stdClass Object
+        (
+            [ID] => 11
+            [post_title] => London
+            [country_name] => United Kingdom
+        )
+
+    [2] => stdClass Object
+        (
+            [ID] => 12
+            [post_title] => Tokyo
+            [country_name] => Japan
+        )
+
+    [3] => stdClass Object
+        (
+            [ID] => 13
+            [post_title] => Sydney
+            [country_name] => Australia
+        )
+
+    [4] => stdClass Object
+        (
+            [ID] => 14
+            [post_title] => Cape Town
+            [country_name] => South Africa
+        )
+
+)
+
+[08-Oct-2024 13:50:58 UTC] Search term received: 
+[08-Oct-2024 13:50:58 UTC] Results found: Array
+(
+    [0] => stdClass Object
+        (
+            [ID] => 10
+            [post_title] => New York
+            [country_name] => United States
+        )
+
+    [1] => stdClass Object
+        (
+            [ID] => 11
+            [post_title] => London
+            [country_name] => United Kingdom
+        )
+
+    [2] => stdClass Object
+        (
+            [ID] => 12
+            [post_title] => Tokyo
+            [country_name] => Japan
+        )
+
+    [3] => stdClass Object
+        (
+            [ID] => 13
+            [post_title] => Sydney
+            [country_name] => Australia
+        )
+
+    [4] => stdClass Object
+        (
+            [ID] => 14
+            [post_title] => Cape Town
+            [country_name] => South Africa
+        )
+
+)
+
+[08-Oct-2024 13:50:58 UTC] Search term received: 
+[08-Oct-2024 13:50:58 UTC] Results found: Array
+(
+    [0] => stdClass Object
+        (
+            [ID] => 10
+            [post_title] => New York
+            [country_name] => United States
+        )
+
+    [1] => stdClass Object
+        (
+            [ID] => 11
+            [post_title] => London
+            [country_name] => United Kingdom
+        )
+
+    [2] => stdClass Object
+        (
+            [ID] => 12
+            [post_title] => Tokyo
+            [country_name] => Japan
+        )
+
+    [3] => stdClass Object
+        (
+            [ID] => 13
+            [post_title] => Sydney
+            [country_name] => Australia
+        )
+
+    [4] => stdClass Object
+        (
+            [ID] => 14
+            [post_title] => Cape Town
+            [country_name] => South Africa
+        )
+
+)
+
+[08-Oct-2024 13:50:58 UTC] Search term received: t
+[08-Oct-2024 13:50:58 UTC] Results found: Array
+(
+    [0] => stdClass Object
+        (
+            [ID] => 12
+            [post_title] => Tokyo
+            [country_name] => Japan
+        )
+
+    [1] => stdClass Object
+        (
+            [ID] => 14
+            [post_title] => Cape Town
+            [country_name] => South Africa
+        )
+
+)
+
+[08-Oct-2024 13:50:58 UTC] Search term received: 
+[08-Oct-2024 13:50:58 UTC] Results found: Array
+(
+    [0] => stdClass Object
+        (
+            [ID] => 10
+            [post_title] => New York
+            [country_name] => United States
+        )
+
+    [1] => stdClass Object
+        (
+            [ID] => 11
+            [post_title] => London
+            [country_name] => United Kingdom
+        )
+
+    [2] => stdClass Object
+        (
+            [ID] => 12
+            [post_title] => Tokyo
+            [country_name] => Japan
+        )
+
+    [3] => stdClass Object
+        (
+            [ID] => 13
+            [post_title] => Sydney
+            [country_name] => Australia
+        )
+
+    [4] => stdClass Object
+        (
+            [ID] => 14
+            [post_title] => Cape Town
+            [country_name] => South Africa
+        )
+
+)
+
+[08-Oct-2024 13:50:58 UTC] Search term received: 
+[08-Oct-2024 13:50:58 UTC] Results found: Array
+(
+    [0] => stdClass Object
+        (
+            [ID] => 10
+            [post_title] => New York
+            [country_name] => United States
+        )
+
+    [1] => stdClass Object
+        (
+            [ID] => 11
+            [post_title] => London
+            [country_name] => United Kingdom
+        )
+
+    [2] => stdClass Object
+        (
+            [ID] => 12
+            [post_title] => Tokyo
+            [country_name] => Japan
+        )
+
+    [3] => stdClass Object
+        (
+            [ID] => 13
+            [post_title] => Sydney
+            [country_name] => Australia
+        )
+
+    [4] => stdClass Object
+        (
+            [ID] => 14
+            [post_title] => Cape Town
+            [country_name] => South Africa
+        )
+
+)
+
+[08-Oct-2024 13:50:59 UTC] Search term received: 
+[08-Oct-2024 13:50:59 UTC] Results found: Array
+(
+    [0] => stdClass Object
+        (
+            [ID] => 10
+            [post_title] => New York
+            [country_name] => United States
+        )
+
+    [1] => stdClass Object
+        (
+            [ID] => 11
+            [post_title] => London
+            [country_name] => United Kingdom
+        )
+
+    [2] => stdClass Object
+        (
+            [ID] => 12
+            [post_title] => Tokyo
+            [country_name] => Japan
+        )
+
+    [3] => stdClass Object
+        (
+            [ID] => 13
+            [post_title] => Sydney
+            [country_name] => Australia
+        )
+
+    [4] => stdClass Object
+        (
+            [ID] => 14
+            [post_title] => Cape Town
+            [country_name] => South Africa
+        )
+
+)
+
+[08-Oct-2024 13:50:59 UTC] Search term received: y
+[08-Oct-2024 13:50:59 UTC] Results found: Array
+(
+    [0] => stdClass Object
+        (
+            [ID] => 10
+            [post_title] => New York
+            [country_name] => United States
+        )
+
+    [1] => stdClass Object
+        (
+            [ID] => 12
+            [post_title] => Tokyo
+            [country_name] => Japan
+        )
+
+    [2] => stdClass Object
+        (
+            [ID] => 13
+            [post_title] => Sydney
+            [country_name] => Australia
+        )
+
+)
+
+[08-Oct-2024 13:50:59 UTC] Search term received: 
+[08-Oct-2024 13:50:59 UTC] Results found: Array
+(
+    [0] => stdClass Object
+        (
+            [ID] => 10
+            [post_title] => New York
+            [country_name] => United States
+        )
+
+    [1] => stdClass Object
+        (
+            [ID] => 11
+            [post_title] => London
+            [country_name] => United Kingdom
+        )
+
+    [2] => stdClass Object
+        (
+            [ID] => 12
+            [post_title] => Tokyo
+            [country_name] => Japan
+        )
+
+    [3] => stdClass Object
+        (
+            [ID] => 13
+            [post_title] => Sydney
+            [country_name] => Australia
+        )
+
+    [4] => stdClass Object
+        (
+            [ID] => 14
+            [post_title] => Cape Town
+            [country_name] => South Africa
+        )
+
+)
+
+[08-Oct-2024 13:50:59 UTC] Search term received: 
+[08-Oct-2024 13:50:59 UTC] Results found: Array
+(
+    [0] => stdClass Object
+        (
+            [ID] => 10
+            [post_title] => New York
+            [country_name] => United States
+        )
+
+    [1] => stdClass Object
+        (
+            [ID] => 11
+            [post_title] => London
+            [country_name] => United Kingdom
+        )
+
+    [2] => stdClass Object
+        (
+            [ID] => 12
+            [post_title] => Tokyo
+            [country_name] => Japan
+        )
+
+    [3] => stdClass Object
+        (
+            [ID] => 13
+            [post_title] => Sydney
+            [country_name] => Australia
+        )
+
+    [4] => stdClass Object
+        (
+            [ID] => 14
+            [post_title] => Cape Town
+            [country_name] => South Africa
+        )
+
+)
+
+[08-Oct-2024 13:50:59 UTC] Search term received: 
+[08-Oct-2024 13:50:59 UTC] Results found: Array
+(
+    [0] => stdClass Object
+        (
+            [ID] => 10
+            [post_title] => New York
+            [country_name] => United States
+        )
+
+    [1] => stdClass Object
+        (
+            [ID] => 11
+            [post_title] => London
+            [country_name] => United Kingdom
+        )
+
+    [2] => stdClass Object
+        (
+            [ID] => 12
+            [post_title] => Tokyo
+            [country_name] => Japan
+        )
+
+    [3] => stdClass Object
+        (
+            [ID] => 13
+            [post_title] => Sydney
+            [country_name] => Australia
+        )
+
+    [4] => stdClass Object
+        (
+            [ID] => 14
+            [post_title] => Cape Town
+            [country_name] => South Africa
+        )
+
+)
+
+[08-Oct-2024 13:51:00 UTC] Search term received: 
+[08-Oct-2024 13:51:00 UTC] Results found: Array
+(
+    [0] => stdClass Object
+        (
+            [ID] => 10
+            [post_title] => New York
+            [country_name] => United States
+        )
+
+    [1] => stdClass Object
+        (
+            [ID] => 11
+            [post_title] => London
+            [country_name] => United Kingdom
+        )
+
+    [2] => stdClass Object
+        (
+            [ID] => 12
+            [post_title] => Tokyo
+            [country_name] => Japan
+        )
+
+    [3] => stdClass Object
+        (
+            [ID] => 13
+            [post_title] => Sydney
+            [country_name] => Australia
+        )
+
+    [4] => stdClass Object
+        (
+            [ID] => 14
+            [post_title] => Cape Town
+            [country_name] => South Africa
+        )
+
+)
+
+[08-Oct-2024 13:51:00 UTC] Search term received: 
+[08-Oct-2024 13:51:00 UTC] Results found: Array
+(
+    [0] => stdClass Object
+        (
+            [ID] => 10
+            [post_title] => New York
+            [country_name] => United States
+        )
+
+    [1] => stdClass Object
+        (
+            [ID] => 11
+            [post_title] => London
+            [country_name] => United Kingdom
+        )
+
+    [2] => stdClass Object
+        (
+            [ID] => 12
+            [post_title] => Tokyo
+            [country_name] => Japan
+        )
+
+    [3] => stdClass Object
+        (
+            [ID] => 13
+            [post_title] => Sydney
+            [country_name] => Australia
+        )
+
+    [4] => stdClass Object
+        (
+            [ID] => 14
+            [post_title] => Cape Town
+            [country_name] => South Africa
+        )
+
+)
+
+[08-Oct-2024 13:51:00 UTC] Search term received: 
+[08-Oct-2024 13:51:00 UTC] Results found: Array
+(
+    [0] => stdClass Object
+        (
+            [ID] => 10
+            [post_title] => New York
+            [country_name] => United States
+        )
+
+    [1] => stdClass Object
+        (
+            [ID] => 11
+            [post_title] => London
+            [country_name] => United Kingdom
+        )
+
+    [2] => stdClass Object
+        (
+            [ID] => 12
+            [post_title] => Tokyo
+            [country_name] => Japan
+        )
+
+    [3] => stdClass Object
+        (
+            [ID] => 13
+            [post_title] => Sydney
+            [country_name] => Australia
+        )
+
+    [4] => stdClass Object
+        (
+            [ID] => 14
+            [post_title] => Cape Town
+            [country_name] => South Africa
+        )
+
+)
+
+[08-Oct-2024 13:51:00 UTC] Search term received: y
+[08-Oct-2024 13:51:00 UTC] Results found: Array
+(
+    [0] => stdClass Object
+        (
+            [ID] => 10
+            [post_title] => New York
+            [country_name] => United States
+        )
+
+    [1] => stdClass Object
+        (
+            [ID] => 12
+            [post_title] => Tokyo
+            [country_name] => Japan
+        )
+
+    [2] => stdClass Object
+        (
+            [ID] => 13
+            [post_title] => Sydney
+            [country_name] => Australia
+        )
+
+)
+
+[08-Oct-2024 13:51:00 UTC] Search term received: 
+[08-Oct-2024 13:51:00 UTC] Results found: Array
+(
+    [0] => stdClass Object
+        (
+            [ID] => 10
+            [post_title] => New York
+            [country_name] => United States
+        )
+
+    [1] => stdClass Object
+        (
+            [ID] => 11
+            [post_title] => London
+            [country_name] => United Kingdom
+        )
+
+    [2] => stdClass Object
+        (
+            [ID] => 12
+            [post_title] => Tokyo
+            [country_name] => Japan
+        )
+
+    [3] => stdClass Object
+        (
+            [ID] => 13
+            [post_title] => Sydney
+            [country_name] => Australia
+        )
+
+    [4] => stdClass Object
+        (
+            [ID] => 14
+            [post_title] => Cape Town
+            [country_name] => South Africa
+        )
+
+)
+
+[08-Oct-2024 13:51:00 UTC] Search term received: 
+[08-Oct-2024 13:51:00 UTC] Results found: Array
+(
+    [0] => stdClass Object
+        (
+            [ID] => 10
+            [post_title] => New York
+            [country_name] => United States
+        )
+
+    [1] => stdClass Object
+        (
+            [ID] => 11
+            [post_title] => London
+            [country_name] => United Kingdom
+        )
+
+    [2] => stdClass Object
+        (
+            [ID] => 12
+            [post_title] => Tokyo
+            [country_name] => Japan
+        )
+
+    [3] => stdClass Object
+        (
+            [ID] => 13
+            [post_title] => Sydney
+            [country_name] => Australia
+        )
+
+    [4] => stdClass Object
+        (
+            [ID] => 14
+            [post_title] => Cape Town
+            [country_name] => South Africa
+        )
+
+)
+
+[08-Oct-2024 13:51:01 UTC] Search term received: y
+[08-Oct-2024 13:51:01 UTC] Results found: Array
+(
+    [0] => stdClass Object
+        (
+            [ID] => 10
+            [post_title] => New York
+            [country_name] => United States
+        )
+
+    [1] => stdClass Object
+        (
+            [ID] => 12
+            [post_title] => Tokyo
+            [country_name] => Japan
+        )
+
+    [2] => stdClass Object
+        (
+            [ID] => 13
+            [post_title] => Sydney
+            [country_name] => Australia
+        )
+
+)
+
+[08-Oct-2024 13:51:02 UTC] Search term received: y
+[08-Oct-2024 13:51:02 UTC] Results found: Array
+(
+    [0] => stdClass Object
+        (
+            [ID] => 10
+            [post_title] => New York
+            [country_name] => United States
+        )
+
+    [1] => stdClass Object
+        (
+            [ID] => 12
+            [post_title] => Tokyo
+            [country_name] => Japan
+        )
+
+    [2] => stdClass Object
+        (
+            [ID] => 13
+            [post_title] => Sydney
+            [country_name] => Australia
+        )
+
+)
+
+[08-Oct-2024 13:51:02 UTC] Search term received: y
+[08-Oct-2024 13:51:02 UTC] Results found: Array
+(
+    [0] => stdClass Object
+        (
+            [ID] => 10
+            [post_title] => New York
+            [country_name] => United States
+        )
+
+    [1] => stdClass Object
+        (
+            [ID] => 12
+            [post_title] => Tokyo
+            [country_name] => Japan
+        )
+
+    [2] => stdClass Object
+        (
+            [ID] => 13
+            [post_title] => Sydney
+            [country_name] => Australia
+        )
+
+)
+
+[08-Oct-2024 13:51:02 UTC] Search term received: 
+[08-Oct-2024 13:51:02 UTC] Results found: Array
+(
+    [0] => stdClass Object
+        (
+            [ID] => 10
+            [post_title] => New York
+            [country_name] => United States
+        )
+
+    [1] => stdClass Object
+        (
+            [ID] => 11
+            [post_title] => London
+            [country_name] => United Kingdom
+        )
+
+    [2] => stdClass Object
+        (
+            [ID] => 12
+            [post_title] => Tokyo
+            [country_name] => Japan
+        )
+
+    [3] => stdClass Object
+        (
+            [ID] => 13
+            [post_title] => Sydney
+            [country_name] => Australia
+        )
+
+    [4] => stdClass Object
+        (
+            [ID] => 14
+            [post_title] => Cape Town
+            [country_name] => South Africa
+        )
+
+)
+
+[08-Oct-2024 13:51:02 UTC] Search term received: 
+[08-Oct-2024 13:51:02 UTC] Results found: Array
+(
+    [0] => stdClass Object
+        (
+            [ID] => 10
+            [post_title] => New York
+            [country_name] => United States
+        )
+
+    [1] => stdClass Object
+        (
+            [ID] => 11
+            [post_title] => London
+            [country_name] => United Kingdom
+        )
+
+    [2] => stdClass Object
+        (
+            [ID] => 12
+            [post_title] => Tokyo
+            [country_name] => Japan
+        )
+
+    [3] => stdClass Object
+        (
+            [ID] => 13
+            [post_title] => Sydney
+            [country_name] => Australia
+        )
+
+    [4] => stdClass Object
+        (
+            [ID] => 14
+            [post_title] => Cape Town
+            [country_name] => South Africa
+        )
+
+)
+
+[08-Oct-2024 13:53:19 UTC] Search term received: n
+[08-Oct-2024 13:53:19 UTC] Results found: Array
+(
+    [0] => stdClass Object
+        (
+            [ID] => 10
+            [post_title] => New York
+            [country_name] => United States
+        )
+
+    [1] => stdClass Object
+        (
+            [ID] => 11
+            [post_title] => London
+            [country_name] => United Kingdom
+        )
+
+    [2] => stdClass Object
+        (
+            [ID] => 13
+            [post_title] => Sydney
+            [country_name] => Australia
+        )
+
+    [3] => stdClass Object
+        (
+            [ID] => 14
+            [post_title] => Cape Town
+            [country_name] => South Africa
+        )
+
+)
+
+[08-Oct-2024 13:53:20 UTC] Search term received: new
+[08-Oct-2024 13:53:20 UTC] Results found: Array
+(
+    [0] => stdClass Object
+        (
+            [ID] => 10
+            [post_title] => New York
+            [country_name] => United States
+        )
+
+)
+
+[08-Oct-2024 13:53:20 UTC] Search term received: new
+[08-Oct-2024 13:53:20 UTC] Results found: Array
+(
+    [0] => stdClass Object
+        (
+            [ID] => 10
+            [post_title] => New York
+            [country_name] => United States
+        )
+
+)
+
+[08-Oct-2024 13:53:21 UTC] Search term received: new
+[08-Oct-2024 13:53:21 UTC] Results found: Array
+(
+    [0] => stdClass Object
+        (
+            [ID] => 10
+            [post_title] => New York
+            [country_name] => United States
+        )
+
+)
+
+[08-Oct-2024 13:53:21 UTC] Search term received: new
+[08-Oct-2024 13:53:21 UTC] Results found: Array
+(
+    [0] => stdClass Object
+        (
+            [ID] => 10
+            [post_title] => New York
+            [country_name] => United States
+        )
+
+)
+
+[08-Oct-2024 13:53:22 UTC] Search term received: 
+[08-Oct-2024 13:53:22 UTC] Results found: Array
+(
+    [0] => stdClass Object
+        (
+            [ID] => 10
+            [post_title] => New York
+            [country_name] => United States
+        )
+
+    [1] => stdClass Object
+        (
+            [ID] => 11
+            [post_title] => London
+            [country_name] => United Kingdom
+        )
+
+    [2] => stdClass Object
+        (
+            [ID] => 12
+            [post_title] => Tokyo
+            [country_name] => Japan
+        )
+
+    [3] => stdClass Object
+        (
+            [ID] => 13
+            [post_title] => Sydney
+            [country_name] => Australia
+        )
+
+    [4] => stdClass Object
+        (
+            [ID] => 14
+            [post_title] => Cape Town
+            [country_name] => South Africa
+        )
+
+)
+
+[08-Oct-2024 13:53:22 UTC] Search term received: y
+[08-Oct-2024 13:53:22 UTC] Results found: Array
+(
+    [0] => stdClass Object
+        (
+            [ID] => 10
+            [post_title] => New York
+            [country_name] => United States
+        )
+
+    [1] => stdClass Object
+        (
+            [ID] => 12
+            [post_title] => Tokyo
+            [country_name] => Japan
+        )
+
+    [2] => stdClass Object
+        (
+            [ID] => 13
+            [post_title] => Sydney
+            [country_name] => Australia
+        )
+
+)
+
+[08-Oct-2024 13:53:22 UTC] Search term received: 
+[08-Oct-2024 13:53:22 UTC] Results found: Array
+(
+    [0] => stdClass Object
+        (
+            [ID] => 10
+            [post_title] => New York
+            [country_name] => United States
+        )
+
+    [1] => stdClass Object
+        (
+            [ID] => 11
+            [post_title] => London
+            [country_name] => United Kingdom
+        )
+
+    [2] => stdClass Object
+        (
+            [ID] => 12
+            [post_title] => Tokyo
+            [country_name] => Japan
+        )
+
+    [3] => stdClass Object
+        (
+            [ID] => 13
+            [post_title] => Sydney
+            [country_name] => Australia
+        )
+
+    [4] => stdClass Object
+        (
+            [ID] => 14
+            [post_title] => Cape Town
+            [country_name] => South Africa
+        )
+
+)
+
+[08-Oct-2024 13:53:23 UTC] Search term received: y
+[08-Oct-2024 13:53:23 UTC] Results found: Array
+(
+    [0] => stdClass Object
+        (
+            [ID] => 10
+            [post_title] => New York
+            [country_name] => United States
+        )
+
+    [1] => stdClass Object
+        (
+            [ID] => 12
+            [post_title] => Tokyo
+            [country_name] => Japan
+        )
+
+    [2] => stdClass Object
+        (
+            [ID] => 13
+            [post_title] => Sydney
+            [country_name] => Australia
+        )
+
+)
+
+[08-Oct-2024 13:53:23 UTC] Search term received: yo
+[08-Oct-2024 13:53:23 UTC] Results found: Array
+(
+    [0] => stdClass Object
+        (
+            [ID] => 10
+            [post_title] => New York
+            [country_name] => United States
+        )
+
+    [1] => stdClass Object
+        (
+            [ID] => 12
+            [post_title] => Tokyo
+            [country_name] => Japan
+        )
+
+)
+
+[08-Oct-2024 13:53:24 UTC] Search term received: yor
+[08-Oct-2024 13:53:24 UTC] Results found: Array
+(
+    [0] => stdClass Object
+        (
+            [ID] => 10
+            [post_title] => New York
+            [country_name] => United States
+        )
+
+)
+
+[08-Oct-2024 13:53:24 UTC] Search term received: york
+[08-Oct-2024 13:53:24 UTC] Results found: Array
+(
+    [0] => stdClass Object
+        (
+            [ID] => 10
+            [post_title] => New York
+            [country_name] => United States
+        )
+
+)
+
+[08-Oct-2024 13:53:25 UTC] Search term received: york
+[08-Oct-2024 13:53:25 UTC] Results found: Array
+(
+    [0] => stdClass Object
+        (
+            [ID] => 10
+            [post_title] => New York
+            [country_name] => United States
+        )
+
+)
+
+[08-Oct-2024 13:53:25 UTC] Search term received: york
+[08-Oct-2024 13:53:25 UTC] Results found: Array
+(
+    [0] => stdClass Object
+        (
+            [ID] => 10
+            [post_title] => New York
+            [country_name] => United States
+        )
+
+)
+
+[08-Oct-2024 13:53:25 UTC] Search term received: 
+[08-Oct-2024 13:53:25 UTC] Results found: Array
+(
+    [0] => stdClass Object
+        (
+            [ID] => 10
+            [post_title] => New York
+            [country_name] => United States
+        )
+
+    [1] => stdClass Object
+        (
+            [ID] => 11
+            [post_title] => London
+            [country_name] => United Kingdom
+        )
+
+    [2] => stdClass Object
+        (
+            [ID] => 12
+            [post_title] => Tokyo
+            [country_name] => Japan
+        )
+
+    [3] => stdClass Object
+        (
+            [ID] => 13
+            [post_title] => Sydney
+            [country_name] => Australia
+        )
+
+    [4] => stdClass Object
+        (
+            [ID] => 14
+            [post_title] => Cape Town
+            [country_name] => South Africa
+        )
+
+)
+
