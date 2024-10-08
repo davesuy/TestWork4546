@@ -12183,3 +12183,1139 @@ Stack trace:
 
 )
 
+[08-Oct-2024 14:09:04 UTC] Search term received: l
+[08-Oct-2024 14:09:04 UTC] Results found: Array
+(
+    [0] => stdClass Object
+        (
+            [ID] => 11
+            [post_title] => London
+            [country_name] => United Kingdom
+        )
+
+)
+
+[08-Oct-2024 14:09:04 UTC] Search term received: lo
+[08-Oct-2024 14:09:04 UTC] Results found: Array
+(
+    [0] => stdClass Object
+        (
+            [ID] => 11
+            [post_title] => London
+            [country_name] => United Kingdom
+        )
+
+)
+
+[08-Oct-2024 14:09:05 UTC] Search term received: lond
+[08-Oct-2024 14:09:05 UTC] Results found: Array
+(
+    [0] => stdClass Object
+        (
+            [ID] => 11
+            [post_title] => London
+            [country_name] => United Kingdom
+        )
+
+)
+
+[08-Oct-2024 14:09:05 UTC] Search term received: londo
+[08-Oct-2024 14:09:05 UTC] Results found: Array
+(
+    [0] => stdClass Object
+        (
+            [ID] => 11
+            [post_title] => London
+            [country_name] => United Kingdom
+        )
+
+)
+
+[08-Oct-2024 14:09:05 UTC] Search term received: londo
+[08-Oct-2024 14:09:05 UTC] Results found: Array
+(
+    [0] => stdClass Object
+        (
+            [ID] => 11
+            [post_title] => London
+            [country_name] => United Kingdom
+        )
+
+)
+
+[08-Oct-2024 14:09:05 UTC] Search term received: london
+[08-Oct-2024 14:09:05 UTC] Results found: Array
+(
+    [0] => stdClass Object
+        (
+            [ID] => 11
+            [post_title] => London
+            [country_name] => United Kingdom
+        )
+
+)
+
+[08-Oct-2024 14:09:08 UTC] Search term received: 
+[08-Oct-2024 14:09:08 UTC] Results found: Array
+(
+    [0] => stdClass Object
+        (
+            [ID] => 10
+            [post_title] => New York
+            [country_name] => United States
+        )
+
+    [1] => stdClass Object
+        (
+            [ID] => 11
+            [post_title] => London
+            [country_name] => United Kingdom
+        )
+
+    [2] => stdClass Object
+        (
+            [ID] => 12
+            [post_title] => Tokyo
+            [country_name] => Japan
+        )
+
+    [3] => stdClass Object
+        (
+            [ID] => 13
+            [post_title] => Sydney
+            [country_name] => Australia
+        )
+
+    [4] => stdClass Object
+        (
+            [ID] => 14
+            [post_title] => Cape Town
+            [country_name] => South Africa
+        )
+
+)
+
+[08-Oct-2024 14:14:16 UTC] Search term received: n
+[08-Oct-2024 14:14:16 UTC] Results found: Array
+(
+    [0] => stdClass Object
+        (
+            [ID] => 10
+            [post_title] => New York
+            [country_name] => United States
+        )
+
+    [1] => stdClass Object
+        (
+            [ID] => 11
+            [post_title] => London
+            [country_name] => United Kingdom
+        )
+
+    [2] => stdClass Object
+        (
+            [ID] => 13
+            [post_title] => Sydney
+            [country_name] => Australia
+        )
+
+    [3] => stdClass Object
+        (
+            [ID] => 14
+            [post_title] => Cape Town
+            [country_name] => South Africa
+        )
+
+)
+
+[08-Oct-2024 14:14:16 UTC] Search term received: new
+[08-Oct-2024 14:14:16 UTC] Results found: Array
+(
+    [0] => stdClass Object
+        (
+            [ID] => 10
+            [post_title] => New York
+            [country_name] => United States
+        )
+
+)
+
+[08-Oct-2024 14:14:16 UTC] Search term received: new
+[08-Oct-2024 14:14:16 UTC] Results found: Array
+(
+    [0] => stdClass Object
+        (
+            [ID] => 10
+            [post_title] => New York
+            [country_name] => United States
+        )
+
+)
+
+[08-Oct-2024 14:14:16 UTC] Search term received: new
+[08-Oct-2024 14:14:16 UTC] Results found: Array
+(
+    [0] => stdClass Object
+        (
+            [ID] => 10
+            [post_title] => New York
+            [country_name] => United States
+        )
+
+)
+
+[08-Oct-2024 14:14:17 UTC] Search term received: new yo
+[08-Oct-2024 14:14:17 UTC] Results found: Array
+(
+    [0] => stdClass Object
+        (
+            [ID] => 10
+            [post_title] => New York
+            [country_name] => United States
+        )
+
+)
+
+[08-Oct-2024 14:14:17 UTC] Search term received: new yo
+[08-Oct-2024 14:14:17 UTC] Results found: Array
+(
+    [0] => stdClass Object
+        (
+            [ID] => 10
+            [post_title] => New York
+            [country_name] => United States
+        )
+
+)
+
+[08-Oct-2024 14:14:17 UTC] Search term received: new yor
+[08-Oct-2024 14:14:17 UTC] Results found: Array
+(
+    [0] => stdClass Object
+        (
+            [ID] => 10
+            [post_title] => New York
+            [country_name] => United States
+        )
+
+)
+
+[08-Oct-2024 14:14:17 UTC] Search term received: new york
+[08-Oct-2024 14:14:17 UTC] Results found: Array
+(
+    [0] => stdClass Object
+        (
+            [ID] => 10
+            [post_title] => New York
+            [country_name] => United States
+        )
+
+)
+
+[08-Oct-2024 14:14:18 UTC] Search term received: new york
+[08-Oct-2024 14:14:18 UTC] Results found: Array
+(
+    [0] => stdClass Object
+        (
+            [ID] => 10
+            [post_title] => New York
+            [country_name] => United States
+        )
+
+)
+
+[08-Oct-2024 14:14:18 UTC] Search term received: new york
+[08-Oct-2024 14:14:18 UTC] Results found: Array
+(
+    [0] => stdClass Object
+        (
+            [ID] => 10
+            [post_title] => New York
+            [country_name] => United States
+        )
+
+)
+
+[08-Oct-2024 14:14:18 UTC] Search term received: 
+[08-Oct-2024 14:14:18 UTC] Results found: Array
+(
+    [0] => stdClass Object
+        (
+            [ID] => 10
+            [post_title] => New York
+            [country_name] => United States
+        )
+
+    [1] => stdClass Object
+        (
+            [ID] => 11
+            [post_title] => London
+            [country_name] => United Kingdom
+        )
+
+    [2] => stdClass Object
+        (
+            [ID] => 12
+            [post_title] => Tokyo
+            [country_name] => Japan
+        )
+
+    [3] => stdClass Object
+        (
+            [ID] => 13
+            [post_title] => Sydney
+            [country_name] => Australia
+        )
+
+    [4] => stdClass Object
+        (
+            [ID] => 14
+            [post_title] => Cape Town
+            [country_name] => South Africa
+        )
+
+)
+
+[08-Oct-2024 14:14:21 UTC] Search term received: l
+[08-Oct-2024 14:14:21 UTC] Results found: Array
+(
+    [0] => stdClass Object
+        (
+            [ID] => 11
+            [post_title] => London
+            [country_name] => United Kingdom
+        )
+
+)
+
+[08-Oct-2024 14:14:21 UTC] Search term received: lo
+[08-Oct-2024 14:14:21 UTC] Results found: Array
+(
+    [0] => stdClass Object
+        (
+            [ID] => 11
+            [post_title] => London
+            [country_name] => United Kingdom
+        )
+
+)
+
+[08-Oct-2024 14:14:21 UTC] Search term received: lon
+[08-Oct-2024 14:14:21 UTC] Results found: Array
+(
+    [0] => stdClass Object
+        (
+            [ID] => 11
+            [post_title] => London
+            [country_name] => United Kingdom
+        )
+
+)
+
+[08-Oct-2024 14:14:22 UTC] Search term received: lo
+[08-Oct-2024 14:14:22 UTC] Results found: Array
+(
+    [0] => stdClass Object
+        (
+            [ID] => 11
+            [post_title] => London
+            [country_name] => United Kingdom
+        )
+
+)
+
+[08-Oct-2024 14:14:22 UTC] Search term received: l
+[08-Oct-2024 14:14:22 UTC] Results found: Array
+(
+    [0] => stdClass Object
+        (
+            [ID] => 11
+            [post_title] => London
+            [country_name] => United Kingdom
+        )
+
+)
+
+[08-Oct-2024 14:14:22 UTC] Search term received: 
+[08-Oct-2024 14:14:22 UTC] Results found: Array
+(
+    [0] => stdClass Object
+        (
+            [ID] => 10
+            [post_title] => New York
+            [country_name] => United States
+        )
+
+    [1] => stdClass Object
+        (
+            [ID] => 11
+            [post_title] => London
+            [country_name] => United Kingdom
+        )
+
+    [2] => stdClass Object
+        (
+            [ID] => 12
+            [post_title] => Tokyo
+            [country_name] => Japan
+        )
+
+    [3] => stdClass Object
+        (
+            [ID] => 13
+            [post_title] => Sydney
+            [country_name] => Australia
+        )
+
+    [4] => stdClass Object
+        (
+            [ID] => 14
+            [post_title] => Cape Town
+            [country_name] => South Africa
+        )
+
+)
+
+[08-Oct-2024 14:14:22 UTC] Search term received: 
+[08-Oct-2024 14:14:22 UTC] Results found: Array
+(
+    [0] => stdClass Object
+        (
+            [ID] => 10
+            [post_title] => New York
+            [country_name] => United States
+        )
+
+    [1] => stdClass Object
+        (
+            [ID] => 11
+            [post_title] => London
+            [country_name] => United Kingdom
+        )
+
+    [2] => stdClass Object
+        (
+            [ID] => 12
+            [post_title] => Tokyo
+            [country_name] => Japan
+        )
+
+    [3] => stdClass Object
+        (
+            [ID] => 13
+            [post_title] => Sydney
+            [country_name] => Australia
+        )
+
+    [4] => stdClass Object
+        (
+            [ID] => 14
+            [post_title] => Cape Town
+            [country_name] => South Africa
+        )
+
+)
+
+[08-Oct-2024 14:14:25 UTC] Search term received: t
+[08-Oct-2024 14:14:25 UTC] Results found: Array
+(
+    [0] => stdClass Object
+        (
+            [ID] => 12
+            [post_title] => Tokyo
+            [country_name] => Japan
+        )
+
+    [1] => stdClass Object
+        (
+            [ID] => 14
+            [post_title] => Cape Town
+            [country_name] => South Africa
+        )
+
+)
+
+[08-Oct-2024 14:14:25 UTC] Search term received: to
+[08-Oct-2024 14:14:25 UTC] Results found: Array
+(
+    [0] => stdClass Object
+        (
+            [ID] => 12
+            [post_title] => Tokyo
+            [country_name] => Japan
+        )
+
+    [1] => stdClass Object
+        (
+            [ID] => 14
+            [post_title] => Cape Town
+            [country_name] => South Africa
+        )
+
+)
+
+[08-Oct-2024 14:14:26 UTC] Search term received: t
+[08-Oct-2024 14:14:26 UTC] Results found: Array
+(
+    [0] => stdClass Object
+        (
+            [ID] => 12
+            [post_title] => Tokyo
+            [country_name] => Japan
+        )
+
+    [1] => stdClass Object
+        (
+            [ID] => 14
+            [post_title] => Cape Town
+            [country_name] => South Africa
+        )
+
+)
+
+[08-Oct-2024 14:14:26 UTC] Search term received: 
+[08-Oct-2024 14:14:26 UTC] Results found: Array
+(
+    [0] => stdClass Object
+        (
+            [ID] => 10
+            [post_title] => New York
+            [country_name] => United States
+        )
+
+    [1] => stdClass Object
+        (
+            [ID] => 11
+            [post_title] => London
+            [country_name] => United Kingdom
+        )
+
+    [2] => stdClass Object
+        (
+            [ID] => 12
+            [post_title] => Tokyo
+            [country_name] => Japan
+        )
+
+    [3] => stdClass Object
+        (
+            [ID] => 13
+            [post_title] => Sydney
+            [country_name] => Australia
+        )
+
+    [4] => stdClass Object
+        (
+            [ID] => 14
+            [post_title] => Cape Town
+            [country_name] => South Africa
+        )
+
+)
+
+[08-Oct-2024 14:15:39 UTC] Search term received: m
+[08-Oct-2024 14:15:39 UTC] Results found: Array
+(
+    [0] => stdClass Object
+        (
+            [ID] => 17
+            [post_title] => Mexico City
+            [country_name] => Mexico
+        )
+
+)
+
+[08-Oct-2024 14:15:39 UTC] Search term received: mex
+[08-Oct-2024 14:15:39 UTC] Results found: Array
+(
+    [0] => stdClass Object
+        (
+            [ID] => 17
+            [post_title] => Mexico City
+            [country_name] => Mexico
+        )
+
+)
+
+[08-Oct-2024 14:15:39 UTC] Search term received: mex
+[08-Oct-2024 14:15:39 UTC] Results found: Array
+(
+    [0] => stdClass Object
+        (
+            [ID] => 17
+            [post_title] => Mexico City
+            [country_name] => Mexico
+        )
+
+)
+
+[08-Oct-2024 14:15:41 UTC] Search term received: me
+[08-Oct-2024 14:15:41 UTC] Results found: Array
+(
+    [0] => stdClass Object
+        (
+            [ID] => 17
+            [post_title] => Mexico City
+            [country_name] => Mexico
+        )
+
+)
+
+[08-Oct-2024 14:15:41 UTC] Search term received: m
+[08-Oct-2024 14:15:41 UTC] Results found: Array
+(
+    [0] => stdClass Object
+        (
+            [ID] => 17
+            [post_title] => Mexico City
+            [country_name] => Mexico
+        )
+
+)
+
+[08-Oct-2024 14:15:41 UTC] Search term received: 
+[08-Oct-2024 14:15:41 UTC] Results found: Array
+(
+    [0] => stdClass Object
+        (
+            [ID] => 10
+            [post_title] => New York
+            [country_name] => United States
+        )
+
+    [1] => stdClass Object
+        (
+            [ID] => 11
+            [post_title] => London
+            [country_name] => United Kingdom
+        )
+
+    [2] => stdClass Object
+        (
+            [ID] => 12
+            [post_title] => Tokyo
+            [country_name] => Japan
+        )
+
+    [3] => stdClass Object
+        (
+            [ID] => 13
+            [post_title] => Sydney
+            [country_name] => Australia
+        )
+
+    [4] => stdClass Object
+        (
+            [ID] => 14
+            [post_title] => Cape Town
+            [country_name] => South Africa
+        )
+
+    [5] => stdClass Object
+        (
+            [ID] => 17
+            [post_title] => Mexico City
+            [country_name] => Mexico
+        )
+
+)
+
+[08-Oct-2024 14:19:26 UTC] Search term received: me
+[08-Oct-2024 14:19:26 UTC] Results found: Array
+(
+    [0] => stdClass Object
+        (
+            [ID] => 17
+            [post_title] => Mexico City
+            [country_name] => Mexico
+        )
+
+)
+
+[08-Oct-2024 14:19:26 UTC] Search term received: mex
+[08-Oct-2024 14:19:26 UTC] Results found: Array
+(
+    [0] => stdClass Object
+        (
+            [ID] => 17
+            [post_title] => Mexico City
+            [country_name] => Mexico
+        )
+
+)
+
+[08-Oct-2024 14:19:27 UTC] Search term received: mexi
+[08-Oct-2024 14:19:27 UTC] Results found: Array
+(
+    [0] => stdClass Object
+        (
+            [ID] => 17
+            [post_title] => Mexico City
+            [country_name] => Mexico
+        )
+
+)
+
+[08-Oct-2024 14:19:27 UTC] Search term received: mexi
+[08-Oct-2024 14:19:27 UTC] Results found: Array
+(
+    [0] => stdClass Object
+        (
+            [ID] => 17
+            [post_title] => Mexico City
+            [country_name] => Mexico
+        )
+
+)
+
+[08-Oct-2024 14:19:27 UTC] Search term received: mexi
+[08-Oct-2024 14:19:27 UTC] Results found: Array
+(
+    [0] => stdClass Object
+        (
+            [ID] => 17
+            [post_title] => Mexico City
+            [country_name] => Mexico
+        )
+
+)
+
+[08-Oct-2024 14:19:27 UTC] Search term received: mexi
+[08-Oct-2024 14:19:27 UTC] Results found: Array
+(
+    [0] => stdClass Object
+        (
+            [ID] => 17
+            [post_title] => Mexico City
+            [country_name] => Mexico
+        )
+
+)
+
+[08-Oct-2024 14:19:27 UTC] Search term received: 
+[08-Oct-2024 14:19:27 UTC] Results found: Array
+(
+    [0] => stdClass Object
+        (
+            [ID] => 10
+            [post_title] => New York
+            [country_name] => United States
+        )
+
+    [1] => stdClass Object
+        (
+            [ID] => 11
+            [post_title] => London
+            [country_name] => United Kingdom
+        )
+
+    [2] => stdClass Object
+        (
+            [ID] => 12
+            [post_title] => Tokyo
+            [country_name] => Japan
+        )
+
+    [3] => stdClass Object
+        (
+            [ID] => 13
+            [post_title] => Sydney
+            [country_name] => Australia
+        )
+
+    [4] => stdClass Object
+        (
+            [ID] => 14
+            [post_title] => Cape Town
+            [country_name] => South Africa
+        )
+
+    [5] => stdClass Object
+        (
+            [ID] => 17
+            [post_title] => Mexico City
+            [country_name] => Mexico
+        )
+
+)
+
+[08-Oct-2024 14:19:43 UTC] Search term received: me
+[08-Oct-2024 14:19:43 UTC] Results found: Array
+(
+    [0] => stdClass Object
+        (
+            [ID] => 17
+            [post_title] => Mexico City
+            [country_name] => Mexico
+        )
+
+)
+
+[08-Oct-2024 14:19:43 UTC] Search term received: mex
+[08-Oct-2024 14:19:43 UTC] Results found: Array
+(
+    [0] => stdClass Object
+        (
+            [ID] => 17
+            [post_title] => Mexico City
+            [country_name] => Mexico
+        )
+
+)
+
+[08-Oct-2024 14:19:43 UTC] Search term received: mex
+[08-Oct-2024 14:19:43 UTC] Results found: Array
+(
+    [0] => stdClass Object
+        (
+            [ID] => 17
+            [post_title] => Mexico City
+            [country_name] => Mexico
+        )
+
+)
+
+[08-Oct-2024 14:19:43 UTC] Search term received: mexi
+[08-Oct-2024 14:19:43 UTC] Results found: Array
+(
+    [0] => stdClass Object
+        (
+            [ID] => 17
+            [post_title] => Mexico City
+            [country_name] => Mexico
+        )
+
+)
+
+[08-Oct-2024 14:19:43 UTC] Search term received: mexic
+[08-Oct-2024 14:19:43 UTC] Results found: Array
+(
+    [0] => stdClass Object
+        (
+            [ID] => 17
+            [post_title] => Mexico City
+            [country_name] => Mexico
+        )
+
+)
+
+[08-Oct-2024 14:19:43 UTC] Search term received: mexico
+[08-Oct-2024 14:19:43 UTC] Results found: Array
+(
+    [0] => stdClass Object
+        (
+            [ID] => 17
+            [post_title] => Mexico City
+            [country_name] => Mexico
+        )
+
+)
+
+[08-Oct-2024 14:19:44 UTC] Search term received: mexico
+[08-Oct-2024 14:19:44 UTC] Results found: Array
+(
+    [0] => stdClass Object
+        (
+            [ID] => 17
+            [post_title] => Mexico City
+            [country_name] => Mexico
+        )
+
+)
+
+[08-Oct-2024 14:19:44 UTC] Search term received: mexico
+[08-Oct-2024 14:19:44 UTC] Results found: Array
+(
+    [0] => stdClass Object
+        (
+            [ID] => 17
+            [post_title] => Mexico City
+            [country_name] => Mexico
+        )
+
+)
+
+[08-Oct-2024 14:19:44 UTC] Search term received: 
+[08-Oct-2024 14:19:44 UTC] Results found: Array
+(
+    [0] => stdClass Object
+        (
+            [ID] => 10
+            [post_title] => New York
+            [country_name] => United States
+        )
+
+    [1] => stdClass Object
+        (
+            [ID] => 11
+            [post_title] => London
+            [country_name] => United Kingdom
+        )
+
+    [2] => stdClass Object
+        (
+            [ID] => 12
+            [post_title] => Tokyo
+            [country_name] => Japan
+        )
+
+    [3] => stdClass Object
+        (
+            [ID] => 13
+            [post_title] => Sydney
+            [country_name] => Australia
+        )
+
+    [4] => stdClass Object
+        (
+            [ID] => 14
+            [post_title] => Cape Town
+            [country_name] => South Africa
+        )
+
+    [5] => stdClass Object
+        (
+            [ID] => 17
+            [post_title] => Mexico City
+            [country_name] => Mexico
+        )
+
+)
+
+[08-Oct-2024 14:19:44 UTC] Search term received: 
+[08-Oct-2024 14:19:44 UTC] Results found: Array
+(
+    [0] => stdClass Object
+        (
+            [ID] => 10
+            [post_title] => New York
+            [country_name] => United States
+        )
+
+    [1] => stdClass Object
+        (
+            [ID] => 11
+            [post_title] => London
+            [country_name] => United Kingdom
+        )
+
+    [2] => stdClass Object
+        (
+            [ID] => 12
+            [post_title] => Tokyo
+            [country_name] => Japan
+        )
+
+    [3] => stdClass Object
+        (
+            [ID] => 13
+            [post_title] => Sydney
+            [country_name] => Australia
+        )
+
+    [4] => stdClass Object
+        (
+            [ID] => 14
+            [post_title] => Cape Town
+            [country_name] => South Africa
+        )
+
+    [5] => stdClass Object
+        (
+            [ID] => 17
+            [post_title] => Mexico City
+            [country_name] => Mexico
+        )
+
+)
+
+[08-Oct-2024 14:19:46 UTC] Search term received: s
+[08-Oct-2024 14:19:46 UTC] Results found: Array
+(
+    [0] => stdClass Object
+        (
+            [ID] => 13
+            [post_title] => Sydney
+            [country_name] => Australia
+        )
+
+)
+
+[08-Oct-2024 14:19:46 UTC] Search term received: sy
+[08-Oct-2024 14:19:46 UTC] Results found: Array
+(
+    [0] => stdClass Object
+        (
+            [ID] => 13
+            [post_title] => Sydney
+            [country_name] => Australia
+        )
+
+)
+
+[08-Oct-2024 14:19:46 UTC] Search term received: syd
+[08-Oct-2024 14:19:46 UTC] Results found: Array
+(
+    [0] => stdClass Object
+        (
+            [ID] => 13
+            [post_title] => Sydney
+            [country_name] => Australia
+        )
+
+)
+
+[08-Oct-2024 14:19:47 UTC] Search term received: sydne
+[08-Oct-2024 14:19:47 UTC] Results found: Array
+(
+    [0] => stdClass Object
+        (
+            [ID] => 13
+            [post_title] => Sydney
+            [country_name] => Australia
+        )
+
+)
+
+[08-Oct-2024 14:19:47 UTC] Search term received: sydne
+[08-Oct-2024 14:19:47 UTC] Results found: Array
+(
+    [0] => stdClass Object
+        (
+            [ID] => 13
+            [post_title] => Sydney
+            [country_name] => Australia
+        )
+
+)
+
+[08-Oct-2024 14:19:47 UTC] Search term received: sydney
+[08-Oct-2024 14:19:47 UTC] Results found: Array
+(
+    [0] => stdClass Object
+        (
+            [ID] => 13
+            [post_title] => Sydney
+            [country_name] => Australia
+        )
+
+)
+
+[08-Oct-2024 14:19:48 UTC] Search term received: sydney
+[08-Oct-2024 14:19:48 UTC] Results found: Array
+(
+    [0] => stdClass Object
+        (
+            [ID] => 13
+            [post_title] => Sydney
+            [country_name] => Australia
+        )
+
+)
+
+[08-Oct-2024 14:19:48 UTC] Search term received: sydney
+[08-Oct-2024 14:19:48 UTC] Results found: Array
+(
+    [0] => stdClass Object
+        (
+            [ID] => 13
+            [post_title] => Sydney
+            [country_name] => Australia
+        )
+
+)
+
+[08-Oct-2024 14:19:48 UTC] Search term received: 
+[08-Oct-2024 14:19:48 UTC] Results found: Array
+(
+    [0] => stdClass Object
+        (
+            [ID] => 10
+            [post_title] => New York
+            [country_name] => United States
+        )
+
+    [1] => stdClass Object
+        (
+            [ID] => 11
+            [post_title] => London
+            [country_name] => United Kingdom
+        )
+
+    [2] => stdClass Object
+        (
+            [ID] => 12
+            [post_title] => Tokyo
+            [country_name] => Japan
+        )
+
+    [3] => stdClass Object
+        (
+            [ID] => 13
+            [post_title] => Sydney
+            [country_name] => Australia
+        )
+
+    [4] => stdClass Object
+        (
+            [ID] => 14
+            [post_title] => Cape Town
+            [country_name] => South Africa
+        )
+
+    [5] => stdClass Object
+        (
+            [ID] => 17
+            [post_title] => Mexico City
+            [country_name] => Mexico
+        )
+
+)
+
+[08-Oct-2024 14:19:48 UTC] Search term received: 
+[08-Oct-2024 14:19:48 UTC] Results found: Array
+(
+    [0] => stdClass Object
+        (
+            [ID] => 10
+            [post_title] => New York
+            [country_name] => United States
+        )
+
+    [1] => stdClass Object
+        (
+            [ID] => 11
+            [post_title] => London
+            [country_name] => United Kingdom
+        )
+
+    [2] => stdClass Object
+        (
+            [ID] => 12
+            [post_title] => Tokyo
+            [country_name] => Japan
+        )
+
+    [3] => stdClass Object
+        (
+            [ID] => 13
+            [post_title] => Sydney
+            [country_name] => Australia
+        )
+
+    [4] => stdClass Object
+        (
+            [ID] => 14
+            [post_title] => Cape Town
+            [country_name] => South Africa
+        )
+
+    [5] => stdClass Object
+        (
+            [ID] => 17
+            [post_title] => Mexico City
+            [country_name] => Mexico
+        )
+
+)
+
